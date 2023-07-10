@@ -17,16 +17,3 @@
     puede ser usado por practicantes y estudiantes de maestría y licenciatura interesados en diseño y desarrollo de
     sistemas. Por otro lado, al ser relativamente corto permite a los practicantes leerlo y estudiarlo sin que esto les
     requiera un tiempo excesivo, pues por lo habitual este es un recurso escaso. 
-
-## Desiciones de diseño
-
-## Atributos de Calidad
-
-    - Facilidad de mantenimiento
-
-    - Desplegabilidad
-
-    - Escalabilidad
-
-    - Elasticidad
-
